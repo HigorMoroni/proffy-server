@@ -1,1 +1,1 @@
-web: node dist/server.js
+web: npx tsc && node src/server.js
