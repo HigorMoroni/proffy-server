@@ -1,1 +1,1 @@
-web: npx tsnd src/server.ts
+web: npm start
