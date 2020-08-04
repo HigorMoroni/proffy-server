@@ -1,1 +1,1 @@
-web: npx tsc && node src/server.js
+web: npm start
