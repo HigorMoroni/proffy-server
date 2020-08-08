@@ -21,6 +21,7 @@ Esse repositório consiste na api back-end do projeto Proffy que permite ao publ
 # Outros Repositórios
 
 #### <a href="https://github.com/HigorMoroni/proffy-web">Front-end Web</a>
+#### <a href="https://github.com/HigorMoroni/proffy-mobile">App Mobile</a>
 
 # :computer: Technologias utilizadas
 Construido com :yellow_heart: usando as tecnologias:
@@ -67,7 +68,7 @@ Caso o retorno de algum dos dois comandos sejam um erro, é necessário instalar
 ##### Guias para download e instalação do Node.js e NPM:
 Para download: acesse o [site oficial](https://nodejs.org/en/) do Node.js e siga o passo a passo.
 
-Com o Node.js e NPM instalados corretamente, abra o seu terminal na pasta do projeto e  execute os seguinte comando:
+Com o Node.js e NPM instalados corretamente, abra o seu terminal na pasta do projeto e  execute o seguinte comando:
 
 Inicie o servidor:
 ```sh
